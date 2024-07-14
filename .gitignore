@@ -1,5 +1,6 @@
 /db
 /venv
+venv
 /__init__.py
 /__pycache__
 .env
