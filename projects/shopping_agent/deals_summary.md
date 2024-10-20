@@ -1,28 +1,25 @@
-Here are the top 5 deals for laptops under $1000 that meet your preference for Dell and black color:
+- **Top 5 Deals for Garmin Runner Watches:**
+  - **Garmin Forerunner 245**  
+    - Price: $199.99  
+    - Store: Amazon  
+    - [View Product](https://www.amazon.com/Garmin-Forerunner-Smartwatch-Advanced-Dynamics/dp/B07QKG3YP8)  
 
-1. **Dell Inspiron 15 3000 (2024 Model)**  
-   - **Price:** $699.99  
-   - **Store:** Dell  
-   - [Link to Product](https://www.dell.com/en-us/shop/deals/pc-laptop-deals)
+  - **Garmin Forerunner 245 Music**  
+    - Price: $229.99  
+    - Store: Garmin  
+    - [View Product](https://www.garmin.com/en-US/p/646690)  
 
-2. **Dell XPS 13 Laptop**  
-   - **Price:** $949.99  
-   - **Store:** Best Buy  
-   - [Link to Product](https://www.bestbuy.com/site/shop/best-laptop-under-1000)
+  - **Garmin Forerunner 165**  
+    - Price: $199.99  
+    - Store: Garmin  
+    - [View Product](https://www.garmin.com/en-US/p/1055469)  
 
-3. **Dell Inspiron 16 Plus**  
-   - **Price:** $899.99  
-   - **Store:** PCMag  
-   - [Link to Product](https://www.pcmag.com/deals/the-best-laptop-deals-you-can-snag-now)
+  - **Garmin Forerunner 35**  
+    - Price: $179.00  
+    - Store: Walmart  
+    - [View Product](https://www.walmart.com/ip/Garmin-Forerunner-35-Frost-Blue-GPS-Running-Watch-with-Wrist-based-Heart-Rate/54319418)  
 
-4. **Dell Inspiron 15 Business Laptop with Microsoft Office**  
-   - **Price:** $899.99  
-   - **Store:** Amazon  
-   - [Link to Product](https://www.amazon.com/Dell-Inspiron-15-Microsoft-Quad-Core/dp/B0CN9QXVG9)
-
-5. **Dell Inspiron 15 Plus Laptop**  
-   - **Price:** $849.99  
-   - **Store:** CBS News  
-   - [Link to Product](https://www.cbsnews.com/essentials/best-laptops-under-1000/) 
-
-Feel free to check these options for the best deal!
+  - **Garmin Forerunner 55**  
+    - Price: $199.99  
+    - Store: Fleet Feet  
+    - [View Product](https://www.fleetfeet.com/browse/garmin?srsltid=AfmBOoo2YEyv4hH4brhXDPdiof1VomrQjwL5UwRSYRIALfQfyq1gbBBw)

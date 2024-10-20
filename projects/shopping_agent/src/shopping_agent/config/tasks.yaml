@@ -1,9 +1,8 @@
 price_check_task:
   description: >
-    Find the lowest price for the specified article across various online stores. 
-    Make sure the price is within the provided range and meets user preferences 
-    (such as brand preference, color, delivery options, etc.). Return a summary 
-    of the top 5 deals along with their links.
+    Find the lowest price for {article_name} within the price range {price_range} 
+    and the following preferences: {preferences}. Search across various online stores.
+    Make sure to provide a summary of the top 5 deals.
   expected_output: >
     A markdown list with the top 5 deals matching the criteria. 
     Each entry should include the product name, price, store name, and a link to the product page.
