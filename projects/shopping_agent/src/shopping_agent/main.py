@@ -6,7 +6,7 @@ from shopping_agent.crew import ShoppingCrew
 INPUTS = {
     'article_name': 'Runner Watch',
     'price_range': 'USD 50-250 ',
-    'preferences': 'brand:Garmin, color:black, Speciality: Runners Special, Features:Heart beat and O2 tracking, highest discount'
+    'preferences': 'brand:Garmin, color:black, Speciality: Runners Special, Features:Heart beat and Oxygen tracking, highest discount'
 }
 
 def run():

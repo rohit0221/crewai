@@ -1,9 +1,18 @@
 price_check_task:
   description: >
-    Find the lowest price for {article_name} within the price range {price_range} 
+    Find the lowest price for {article_name} within the price range {price_range}
     and the following preferences: {preferences}. Search across various online stores.
-    Make sure to provide a summary of the top 5 deals.
+    Ensure you collect details for multiple relevant models in this category.
   expected_output: >
-    A markdown list with the top 5 deals matching the criteria. 
-    Each entry should include the product name, price, store name, and a link to the product page.
+    A list of products matching the criteria, with details including the product name, price, store name, and a link to the product page.
   agent: shopping_agent
+
+review_and_rank_task:
+  description: >
+    Using the products found in the price check task, analyze online reviews for each product. 
+    Rank the top 5 products based on quality, user satisfaction, and value for money. 
+    Generate a detailed markdown summary explaining the ranking, including links to both the product pages and the reviews.
+  expected_output: >
+    A markdown file listing the top 5 products in order of rank, with a detailed rationale for each choice. 
+    Each entry should include the product name, price, store name, a link to the product page, a link to the reviews, and a summary of why it was chosen.
+  agent: review_agent
