@@ -1,5 +1,2 @@
 crewai
-crewai_tools
-python-dotenv
-yt_dlp
-youtube-transcript-api
+crewai-tools
